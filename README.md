@@ -7,7 +7,7 @@ This semester, we focus on cryptography. We begin with classical algorithms and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/feser/dils-cryptography.git
+git clone https://github.com/feserm/dils-cryptography.git
 
 # Navigate to the project directory
 cd dils-cryptography
